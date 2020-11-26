@@ -1,24 +1,24 @@
-# AbhirajSharmaProfile
-
+<!--
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+-->
   
 
-### <div align="center">I'm Abhiraj , currently a student at Echelon Institute of Technology persuing Bachelors in Technology specialised in Computer Science Engineering. 🚀</div>  
+### <div align="center">I'm Abhiraj , currently a student at Echelon Institute of Technology persuing Bachelors in Technology specialised in Computer Science Engineering. </div>  
   
 
-- 🔭 I’m currently working on [My Tech Channel](https://www.youtube.com/rohanprasadofficial)  
+-  Prefers Kotlin for everything
   
 
-- 🌱 I’m currently learning Visual Design and Illustrations   
+-  I’m currently learning new Web Technologies
   
 
-- ❓ Ask me about anything related to Web , Android & UX  
+-  Firebase maestro
   
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+<!--
+-  Fun fact: I use tabs over spaces  
+  -->
 
 <br/>  
 
@@ -63,13 +63,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
 </div></td><td valign="top" width="33%">
 
+<!--
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div></td></tr></table>  
-
+-->
 <br/>  
 
 
@@ -93,9 +94,12 @@
 <a href="https://instagram.com/akshansh121" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+<!---
 <a href="https://www.youtube.com" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+-->
 </div>  
   
 
@@ -116,5 +120,10 @@
 
 <br />
 
-----
+##### <div align="center">HMU! if you've got some interesting projects :)</div>  
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
+
