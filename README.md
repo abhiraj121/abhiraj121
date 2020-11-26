@@ -1,4 +1,4 @@
-<!--
+<!---
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -16,7 +16,7 @@
 
 -  Firebase maestro
   
-<!--
+<!---
 -  Fun fact: I use tabs over spaces  
   -->
 
@@ -66,7 +66,7 @@
 
 ### DevOps  
 <div align="center">  
-<!--
+<!---
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 -->
