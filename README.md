@@ -103,7 +103,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohanprasadofficial&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhiraj121&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
@@ -111,7 +111,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rohanprasadofficial&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=abhiraj121&&style=flat-square" align="center" />
 </div>  
 
 <br />
