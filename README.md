@@ -6,9 +6,11 @@
   
 
 ### <div align="center">I'm Abhiraj , currently a student at Echelon Institute of Technology persuing Bachelors in Technology specialised in Computer Science Engineering. </div>  
-  
 
--  Prefers Kotlin for everything
+<br/>  
+ 
+
+-  Prefers Kotlin over everything
   
 
 -  I’m currently learning new Web Technologies
